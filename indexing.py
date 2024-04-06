@@ -180,7 +180,7 @@ class Lexicon:
     @classmethod
     def process_chapter(cls, chapter_name):
         # Simulated method to process a chapter and extract words
-        # Replace this with your actual text processing logic
+        
         # For simplicity, split by space and remove punctuation
         with open(chapter_name, 'r') as chapter_file:
             text = chapter_file.read().replace('\n', ' ')
