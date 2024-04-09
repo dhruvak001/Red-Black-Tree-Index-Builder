@@ -6,10 +6,10 @@ The Red-Black Tree Index Builder is a Python program designed to build an index 
 ## Usage:
 
 - Define a list of chapter names.</br>
-* Create an instance of Lexicon.</br>
-+ Read chapters using read_chapters method, which populates the Red-Black Tree with word occurrences.</br>
-* Build the index using build_index method, which generates an index of words with their occurrence counts in each chapter.</br>
-* Access the index entries to retrieve word occurrences in chapters.</br>
+- Create an instance of Lexicon.</br>
+- Read chapters using read_chapters method, which populates the Red-Black Tree with word occurrences.</br>
+- Build the index using build_index method, which generates an index of words with their occurrence counts in each chapter.</br>
+- Access the index entries to retrieve word occurrences in chapters.</br>
 
 
 ## Note:
