@@ -25,10 +25,10 @@ The Red-Black Tree Index Builder is a Python program designed to build an index 
 
 ### Code Overview (if you need any particular function):
 
-HybridNode: Represents a node in the Red-Black Tree with attributes such as key, element (chapter name), parent, children, and color.
+- HybridNode: Represents a node in the Red-Black Tree with attributes such as key, element (chapter name), parent, children, and color.
 
-RedBlackTree: Implements a Red-Black Tree with methods for insertion, deletion, traversal, black height calculation, and searching.
+- RedBlackTree: Implements a Red-Black Tree with methods for insertion, deletion, traversal, black height calculation, and searching.
 
-Lexicon: Provides functionality to read chapters, build the index, process chapters, and prune common words from the Red-Black Tree.
+- Lexicon: Provides functionality to read chapters, build the index, process chapters, and prune common words from the Red-Black Tree.
 
-IndexEntry: Represents an entry in the index containing a word and its occurrence count in each chapter.
+- IndexEntry: Represents an entry in the index containing a word and its occurrence count in each chapter.
